@@ -25,7 +25,7 @@ public class Calculadora {
 
                 case "-":
                     resultado = num1 - num2;
-                    System.out.println("O resultado é" + resultado);
+                    System.out.println("O resultado é: " + resultado);
                 break;
 
                 case "*":
